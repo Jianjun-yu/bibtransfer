@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2020-08-02 21:25:46
 # @Author  : Jianjun Yu 
-# @Link    : http://example.org
+# @Link    : https://github.com/Jianjun-yu
 # @Version : 3.0
 """
 This file strips fields from a biblatex file. The original code was written by astrobel found here: 
